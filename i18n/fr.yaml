@@ -1,0 +1,74 @@
+- id: apply_now
+  translation: Envoyez votre Candidature
+
+- id: job_details
+  translation: Job Details
+
+- id: location
+  translation: Lieu
+
+- id: job_category
+  translation: Job Category
+
+- id: job_type
+  translation: Job Type
+
+- id: posted_date
+  translation: Date
+
+- id: featured_jobs
+  translation: Featured Jobs
+
+- id: categories
+  translation: Catégories
+
+- id: latest_article
+  translation: Dernier Article
+
+- id: tags
+  translation: Tags
+
+- id: read_more
+  translation: Lire la Suite
+
+- id: posted_by
+  translation: Publié par
+
+- id: keep_in_touch
+  translation: Infos Contacts
+
+- id: address
+  translation: Adresse
+
+- id: email
+  translation: Email
+
+- id: mobile
+  translation: Téléphone
+
+- id: client_slider_title
+  translation: Nos Partenaires
+
+- id: about_us
+  translation: À Propos de Sport & Collection
+
+- id: our_company
+  translation: Notre Association
+
+- id: contact_us
+  translation: Contactez-Nous
+
+- id: connect_with_us
+  translation: Suivez-Nous
+
+- id: search_placeholder
+  translation: Votre recherche puis "Entrée"...
+
+- id: our_works
+  translation: Les Plateaux
+
+- id: know_more
+  translation: + d'Infos
+
+- id: create_project
+  translation: Dernières News
