@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://localhost:1313/"
+baseURL = "https://sp-new-2022-redlab.netlify.app/"
 title = "Sport et Collection - 500 Ferrari contre le cancer"
 theme = "redlab-hugo"
 # post pagination
